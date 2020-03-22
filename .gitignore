@@ -2,3 +2,5 @@
 !.gitignore
 !*.ipynb
 !*.yml
+!*/*.ipynb
+!*/*/*.ipynb
